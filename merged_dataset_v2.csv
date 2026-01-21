@@ -1,0 +1,190 @@
+,Beach_Code,Original_Beach_Name,API_Beach_Name,rating,user_ratings_total,lat,lon,Date of collection,Period,length,Trash amount,Beach was cleaned,The last time that beach has been cleaned,The last time that was cleaned from another group,further from the reference point above 100 meters ,Trovato un animale abbandonato o morto,Numero di animali abbandonati o morti
+0,40,Aciddara,Spiaggia Aciddara,3.5,357,38.08036623,13.53734493,12/05/2025,Spring 2025,"149,53",1794.0,True,,False,False,True,2.0
+1,40,Aciddara,Spiaggia Aciddara,3.5,357,38.08036623,13.53734493,13/07/2025,Summer 2025,"149,53",236.0,True,12/04/2024,False,False,False,
+2,40,Aciddara,Spiaggia Aciddara,3.5,357,38.08036623,13.53734493,30/12/2025,Winter 2025-2026,"149,53",552.0,False,13/07/2025,False,True,False,0.0
+3,149,Bagni della Regina Giovanna - Sorrento (Na),Capo di Sorrento,4.7,153,40.63355879,14.35122371,14/12/2025,Winter 2025-2026,"9,39",738.0,True,,False,False,True,1.0
+5,123,Boschetto Steccato di Cutro,Spiaggia Libera Steccato di Cutro,4.4,279,38.93462782,16.93195671,09/07/2025,Summer 2025,"35,21",418.0,True,18/07/2025,False,False,False,
+6,123,Boschetto Steccato di Cutro,Spiaggia Libera Steccato di Cutro,4.4,279,38.93462782,16.93195671,05/09/2025,Autumn 2025,"35,21",181.0,True,,False,True,False,
+7,105,Cala Santa Maria,Torre Cala Santa Maria,4.0,9,38.70891163,13.19533405,08/06/2025,Summer 2025,"70,84",138.0,True,14/03/2025,True,False,False,
+8,142,Caletta Caretta,Punta Penna Grossa Beach,4.4,1788,40.72236478,17.77187437,07/07/2025,Summer 2025,"105,97",159.0,True,,False,True,False,
+9,142,Caletta Caretta,Punta Penna Grossa Beach,4.4,1788,40.72236478,17.77187437,02/08/2025,Summer 2025,"105,97",65.0,True,,False,True,False,
+10,102,Caletta di Sant'Elia,Sant'Elia,4.6,1065,38.09654187,13.53882176,22/05/2025,Spring 2025,"18,38",242.0,True,22/05/2025,False,False,False,
+11,102,Caletta di Sant'Elia,Sant'Elia,4.6,1065,38.09654187,13.53882176,30/12/2025,Winter 2025-2026,"12,77",418.0,False,22/05/2025,False,False,False,
+12,46,Capo Arena- budda beach,Buddha Beach,4.3,487,39.87517777,1.57836628,26/10/2025,Autumn 2025,"331,06",2375.0,True,26/10/2025,False,True,False,
+13,144,Castello di Santa Severa,Spiaggia di Santa Severa,4.1,462,42.01692123,11.95644021,11/10/2025,Autumn 2025,"137,32",186.0,True,,False,False,False,
+14,144,Castello di Santa Severa,Spiaggia di Santa Severa,4.1,462,42.01692123,11.95644021,16/11/2025,Autumn 2025,"137,32",220.0,True,11/10/2025,False,False,False,
+15,144,Castello di Santa Severa,Spiaggia di Santa Severa,4.1,462,42.01692123,11.95644021,08/12/2025,Winter 2025-2026,"137,32",135.0,True,16/11/2025,False,False,False,
+16,100,Caulonia,Spiaggia Rocco dei Matti,4.2,5,38.33758366,16.46034821,30/05/2025,Spring 2025,"101,21",216.0,True,29/04/2023,False,True,False,
+17,100,Caulonia,Spiaggia Rocco dei Matti,4.2,5,38.33758366,16.46034821,11/10/2025,Autumn 2025,"101,21",208.0,True,11/10/2025,False,False,False,
+18,97,Cipollazzo,Spiaggia di Cipollazzo,4.6,66,37.57328088,12.93836474,11/05/2025,Spring 2025,"800,75",28.0,True,11/05/2025,False,False,False,
+19,97,Cipollazzo,Spiaggia di Cipollazzo,4.6,66,37.57328088,12.93836474,21/09/2025,Autumn 2025,"800,75",111.0,True,21/09/2025,False,False,False,
+20,97,Cipollazzo,Spiaggia di Cipollazzo,4.6,66,37.57328088,12.93836474,30/11/2025,Autumn 2025,"800,75",85.0,True,30/11/2025,False,False,False,
+21,94,Club Adriatico - Polignano a Mare,Spiaggia libera,5.0,9,41.02005106,17.18505156,06/07/2025,Summer 2025,"165,19",980.0,True,06/07/2025,False,False,False,
+23,61,"da Marinella di Selinunte alla Foce del Fiume Belice, sponda destra e sinistra verso Menfi",Spiaggia La PINETA,4.4,421,37.58125831,12.85864681,15/09/2024,Autumn 2024,"2520,99",1148.0,True,15/09/2025,False,False,False,
+24,36,Favignana,Spiaggia Praia,3.9,1677,37.92938738,12.32539415,05/05/2025,Spring 2025,"109,74",203.0,True,05/05/2024,False,True,False,
+25,36,Favignana,Spiaggia Praia,3.9,1677,37.92938738,12.32539415,18/11/2025,Autumn 2025,"109,74",230.0,True,,False,False,False,
+26,154,Foce del Savuto,Fiume Savuto,4.3,11,39.03850398,16.09786749,06/08/2025,Summer 2025,"1294,79",101.0,True,,False,False,False,0.0
+27,154,Foce del Savuto,Fiume Savuto,4.3,11,39.03850398,16.09786749,11/11/2025,Autumn 2025,"1294,79",50.0,True,08/08/2025,False,False,False,0.0
+29,27,Fungitedda,Spiaggia Funcitedda,4.7,45,37.36028621,13.34593821,10/12/2025,Winter 2025-2026,"74,59",134.0,False,15/09/2025,False,False,False,
+30,134,Gizzeria Lido,Lido Gizzeria - Spiaggia libera,4.4,122,38.92817526,16.21443059,16/06/2025,Summer 2025,"108,1",200.0,True,16/06/2025,False,False,False,
+31,134,Gizzeria Lido,Lido Gizzeria - Spiaggia libera,4.4,122,38.92817526,16.21443059,08/11/2025,Autumn 2025,"108,1",179.0,True,16/06/2025,True,False,False,
+33,63,isola di Sant'Andrea,Isola Sant'Andrea,4.3,101,40.66103311,17.96886921,17/02/2025,Winter 2024-2025,"221,25",687.0,True,,False,True,True,0.0
+34,63,isola di Sant'Andrea,Isola Sant'Andrea,4.3,101,40.66103311,17.96886921,04/04/2025,Spring 2025,"221,25",1107.0,True,,False,True,True,1.0
+35,63,isola di Sant'Andrea,Isola Sant'Andrea,4.3,101,40.66103311,17.96886921,28/04/2025,Spring 2025,"182,02",721.0,True,04/04/2025,False,True,True,6.0
+36,63,isola di Sant'Andrea,Isola Sant'Andrea,4.3,101,40.66103311,17.96886921,18/05/2025,Spring 2025,"259,72",1002.0,True,28/04/2025,False,True,True,2.0
+37,63,isola di Sant'Andrea,Isola Sant'Andrea,4.3,101,40.66103311,17.96886921,20/05/2025,Spring 2025,"206,64",375.0,True,18/05/2025,False,True,True,2.0
+38,63,isola di Sant'Andrea,Isola Sant'Andrea,4.3,101,40.66103311,17.96886921,19/10/2025,Autumn 2025,"223,5",645.0,True,,False,False,False,
+39,63,isola di Sant'Andrea,Isola Sant'Andrea,4.3,101,40.66103311,17.96886921,28/12/2025,Winter 2025-2026,"158,55",406.0,True,,False,False,False,
+41,167,l'amanusa spiaggia libera,Spiaggia Libera,4.0,192,4.17030752,12.33833179,29/11/2025,Autumn 2025,"53,47",238.0,True,29/11/2025,True,False,False,
+42,35,Levanzo,Spiaggia di Cala Minnola,4.6,485,37.98983033,12.34538761,04/05/2025,Spring 2025,"29,22",255.0,True,,False,False,True,1.0
+43,109,Lido azzurro e ske torre a mare bari,Torre a Mare,4.4,1124,41.08838011,17.00377285,08/06/2025,Summer 2025,"18,46",949.0,True,08/06/2025,True,True,False,
+44,150,Lido di Ostia,pontile di ostia,4.7,3,41.72356556,12.29061985,15/09/2025,Autumn 2025,"368,71",127.0,True,14/09/2025,False,False,False,
+45,150,Lido di Ostia,pontile di ostia,4.7,3,41.72356556,12.29061985,16/11/2025,Autumn 2025,"368,71",266.0,True,15/09/2025,False,False,False,
+46,150,Lido di Ostia,pontile di ostia,4.7,3,41.72356556,12.29061985,08/12/2025,Winter 2025-2026,"368,71",100.0,False,16/11/2025,False,False,False,
+48,95,Lido Fiori,Spiaggia Lido Fiori,4.5,260,37.56608553,12.95526266,11/05/2025,Spring 2025,"2203,46",54.0,True,11/05/2025,False,False,False,
+49,95,Lido Fiori,Spiaggia Lido Fiori,4.5,260,37.56608553,12.95526266,03/08/2025,Summer 2025,"2203,46",114.0,True,03/08/2025,False,False,False,0.0
+50,95,Lido Fiori,Spiaggia Lido Fiori,4.5,260,37.56608553,12.95526266,30/11/2025,Autumn 2025,"2203,46",87.0,False,,False,False,False,0.0
+51,168,Lungomare di Sabaudia,Spiaggia Libera-Lungomare di Sabaudia,4.1,562,0.04131036,0.13001345,06/12/2025,Winter 2025-2026,"1206,96",5594.0,True,06/12/2025,False,False,False,
+52,171,Marina della Lobra - Miglio Blu - Massa Lubrense (Na),Spiaggia di San Montano,4.3,307,4.06146022,14.33898211,06/11/2025,Autumn 2025,"218,47",752.0,True,06/11/2025,False,False,False,0.0
+53,171,Marina della Lobra - Miglio Blu - Massa Lubrense (Na),Spiaggia di San Montano,4.3,307,4.06146022,14.33898211,13/12/2025,Winter 2025-2026,"218,47",533.0,True,,False,False,False,0.0
+54,125,Marina di Pisa,Spiaggia Marina di Pisa,4.4,478,4.3e-07,1e-07,08/06/2025,Summer 2025,0,331.0,True,08/06/2025,False,False,False,0.0
+55,125,Marina di Pisa,Spiaggia Marina di Pisa,4.4,478,4.3e-07,1e-07,14/12/2025,Winter 2025-2026,"2805,53",35.0,True,13/12/2025,False,False,False,
+56,110,Marinella di San Terenzo,Spiaggia della Marinella di San Terenzo,4.5,18,44.08305164,98.94803166,08/06/2025,Summer 2025,"3,04",189.0,True,08/06/2025,False,False,False,
+57,143,Mondragone Spiaggia Lungomare Sinope,Spiaggia di Mondragone,4.1,704,0.00411107,0.00138876,27/09/2025,Autumn 2025,"92,03",307.0,True,,False,False,False,
+58,143,Mondragone Spiaggia Lungomare Sinope,Spiaggia di Mondragone,4.1,704,0.00411107,0.00138876,13/12/2025,Winter 2025-2026,"92,03",390.0,True,,False,False,False,
+59,33,Mondragone zona Fiumarella,Fiumarella(Spiaggia libera),4.2,7,41.11944311,1.38711496,20/09/2024,Autumn 2024,"102,18",1312.0,True,,False,False,False,
+60,33,Mondragone zona Fiumarella,Fiumarella(Spiaggia libera),4.2,7,41.11944311,1.38711496,07/06/2025,Summer 2025,"102,18",117.0,True,,False,False,False,
+61,31,Oasi dei Variconi,Oasi dei variconi,3.7,3,4.102103000000001e-07,1.392991304e-07,14/09/2024,Autumn 2024,0,645.0,True,15/09/2024,False,False,False,
+62,31,Oasi dei Variconi,Oasi dei variconi,3.7,3,4.102103000000001e-07,1.392991304e-07,09/02/2025,Winter 2024-2025,0,707.0,True,09/02/2025,False,False,False,
+63,31,Oasi dei Variconi,Oasi dei variconi,3.7,3,4.102103000000001e-07,1.392991304e-07,08/06/2025,Summer 2025,0,367.0,True,08/06/2025,False,False,False,
+64,31,Oasi dei Variconi,Oasi dei variconi,3.7,3,4.102103000000001e-07,1.392991304e-07,14/09/2025,Autumn 2025,0,213.0,True,14/09/2025,False,False,False,
+65,31,Oasi dei Variconi,Oasi dei variconi,3.7,3,4.102103000000001e-07,1.392991304e-07,14/12/2025,Winter 2025-2026,0,602.0,True,14/12/2025,False,False,False,
+66,83,Oasi del Fratino e della Camomilla di mare,Oasi del Fratino e della Camomilla di mare,5.0,5,42.74993435,1.39741652,19/03/2025,Spring 2025,"180,17",460.0,True,19/03/2025,False,False,False,
+67,83,Oasi del Fratino e della Camomilla di mare,Oasi del Fratino e della Camomilla di mare,5.0,5,42.74993435,1.39741652,12/12/2025,Winter 2025-2026,"180,17",443.0,True,12/12/2025,False,True,False,
+68,24,Oasi WWF Bosco Pantano,Oasis of Bosco Pantano,4.5,466,40.16945502,16.70136452,09/04/2025,Spring 2025,"848,68",61.0,True,09/04/2025,False,False,False,
+69,24,Oasi WWF Bosco Pantano,Oasis of Bosco Pantano,4.5,466,40.16945502,16.70136452,10/07/2025,Summer 2025,"848,68",91.0,True,10/07/2025,False,False,False,
+70,24,Oasi WWF Bosco Pantano,Oasis of Bosco Pantano,4.5,466,40.16945502,16.70136452,25/07/2025,Summer 2025,"848,68",67.0,True,25/07/2025,False,False,False,
+71,34,oasi wwf dune di forte dei marmi ( LU ),Spiaggia libera Le Dune,4.0,1541,43.97447147,10.14483225,10/07/2025,Summer 2025,"144,38",14.0,False,25/05/2025,False,False,True,1.0
+72,34,oasi wwf dune di forte dei marmi ( LU ),Spiaggia libera Le Dune,4.0,1541,43.97447147,10.14483225,17/11/2025,Autumn 2025,"144,38",281.0,True,14/11/2025,False,False,False,
+73,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,23/05/2024,Spring 2024,"490,52",610.0,True,11/08/2023,False,True,False,
+74,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,19/06/2024,Summer 2024,"430,72",532.0,True,23/05/2024,False,True,False,
+75,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,25/06/2024,Summer 2024,"807,19",449.0,True,19/06/2024,False,True,False,
+76,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,03/07/2024,Summer 2024,"760,25",483.0,True,25/06/2024,False,True,False,
+77,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,01/08/2024,Summer 2024,"620,02",592.0,True,03/07/2024,False,True,False,
+78,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,07/08/2024,Summer 2024,"826,71",537.0,True,01/08/2024,False,True,False,
+79,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,29/04/2025,Spring 2025,"247,11",737.0,True,07/08/2024,False,True,False,0.0
+80,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,18/05/2025,Spring 2025,"637,09",916.0,True,29/04/2025,False,True,False,
+81,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,19/05/2025,Spring 2025,"309,83",560.0,True,18/05/2025,True,True,False,0.0
+82,67,Oasi WWF Lago di Burano,Spiaggia Lago di Burano,4.4,11,4.23962697,11.37677193,06/06/2025,Summer 2025,"1494,26",780.0,True,04/06/2025,False,True,False,
+83,106,Oasi ZSC ZPS Dune Alberoni,Alberoni Sand Dune Oasis,4.3,72,45.34678248,12.32945395,02/06/2025,Summer 2025,"1332,48",363.0,True,13/04/2025,True,False,False,
+84,106,Oasi ZSC ZPS Dune Alberoni,Alberoni Sand Dune Oasis,4.3,72,45.34678248,12.32945395,20/09/2025,Autumn 2025,"1332,48",227.0,True,14/09/2025,True,False,False,
+87,86,Plage de Eduard,Spiaggia Mendolido,3.9,29,38.03314178,13.97037685,15/06/2025,Summer 2025,"19,22",96.0,True,15/06/2025,False,False,False,
+88,86,Plage de Eduard,Spiaggia Mendolido,3.9,29,38.03314178,13.97037685,12/12/2025,Winter 2025-2026,"19,22",84.0,True,12/12/2025,False,False,False,
+89,26,Playa Catania,Spiaggia di Catania,3.6,2034,3.74425e-07,1.508585777e-07,16/11/2024,Autumn 2024,"25,87",541.0,True,16/11/2024,False,True,True,2.0
+90,26,Playa Catania,Spiaggia di Catania,3.6,2034,3.74425e-07,1.508585777e-07,01/02/2025,Winter 2024-2025,"7,34",957.0,True,01/02/2025,True,True,True,3.0
+91,26,Playa Catania,Spiaggia di Catania,3.6,2034,3.74425e-07,1.508585777e-07,18/10/2025,Autumn 2025,"7,34",3583.0,True,18/10/2025,True,True,False,
+92,55,Porto Caleri,Spiaggia di porto caleri,4.5,545,45.10055917,12.33449933,15/05/2025,Spring 2025,"468,77",215.0,True,15/05/2025,True,True,False,
+93,55,Porto Caleri,Spiaggia di porto caleri,4.5,545,45.10055917,12.33449933,22/07/2025,Summer 2025,"468,77",23.0,True,22/07/2025,False,False,False,
+94,55,Porto Caleri,Spiaggia di porto caleri,4.5,545,45.10055917,12.33449933,07/09/2025,Autumn 2025,"468,77",27.0,True,07/09/2025,False,False,False,
+95,55,Porto Caleri,Spiaggia di porto caleri,4.5,545,45.10055917,12.33449933,02/11/2025,Autumn 2025,"468,77",21.0,True,21/11/2025,False,False,True,1.0
+96,170,Porto Empedocle,Spiaggia Porto Empedocle,4.1,184,37.28596494,13.52270007,12/12/2025,Winter 2025-2026,"107,53",161.0,False,,False,False,False,
+97,50,Porto Kaleo,Spiaggia Libera - Steccato di Cutro,4.3,60,38.93326742,16.92242146,14/08/2024,Summer 2024,"1289,56",133.0,True,18/08/2024,False,True,False,
+98,50,Porto Kaleo,Spiaggia Libera - Steccato di Cutro,4.3,60,38.93326742,16.92242146,18/08/2024,Summer 2024,"75,26",149.0,True,18/08/2024,False,True,False,
+99,50,Porto Kaleo,Spiaggia Libera - Steccato di Cutro,4.3,60,38.93326742,16.92242146,06/09/2024,Autumn 2024,"67,25",247.0,True,23/08/2024,True,False,False,
+100,50,Porto Kaleo,Spiaggia Libera - Steccato di Cutro,4.3,60,38.93326742,16.92242146,02/07/2025,Summer 2025,"3769,72",246.0,True,02/07/2025,False,True,False,
+101,50,Porto Kaleo,Spiaggia Libera - Steccato di Cutro,4.3,60,38.93326742,16.92242146,08/08/2025,Summer 2025,"3769,72",139.0,True,08/08/2025,False,False,False,
+102,96,Porto palo,Spiaggia di Porto Palo,4.4,2969,37.57728601,12.90381789,25/05/2025,Spring 2025,"3004,29",327.0,True,25/05/2025,False,False,False,
+103,96,Porto palo,Spiaggia di Porto Palo,4.4,2969,37.57728601,12.90381789,24/08/2025,Summer 2025,"3004,29",133.0,True,31/08/2025,False,False,False,0.0
+104,96,Porto palo,Spiaggia di Porto Palo,4.4,2969,37.57728601,12.90381789,14/12/2025,Winter 2025-2026,"3004,29",104.0,True,14/12/2025,False,False,False,0.0
+105,136,Punta Penna Grossa,Punta Penna Grossa Beach,4.4,1788,40.71863493,17.78295457,17/08/2025,Summer 2025,"108,66",122.0,True,,False,True,False,
+106,136,Punta Penna Grossa,Punta Penna Grossa Beach,4.4,1788,40.71863493,17.78295457,22/08/2025,Summer 2025,"108,66",108.0,True,,False,True,False,
+107,137,Quarta caletta,Torre Guaceto beach,4.5,1031,40.71587662,1.77929163,12/08/2025,Summer 2025,"105,08",135.0,True,,False,False,False,
+108,137,Quarta caletta,Torre Guaceto beach,4.5,1031,40.71587662,1.77929163,18/08/2025,Summer 2025,"105,08",88.0,True,,False,False,False,0.0
+109,68,RISERVA BORSACCHIO,Riserva Naturale del Borsacchio,4.5,649,42.70534557,13.99978635,21/09/2025,Autumn 2025,"2023,12",138.0,True,21/09/2025,False,False,False,
+110,68,RISERVA BORSACCHIO,Riserva Naturale del Borsacchio,4.5,649,42.70534557,13.99978635,18/10/2025,Autumn 2025,"2138,46",165.0,True,18/10/2025,False,False,True,1.0
+111,68,RISERVA BORSACCHIO,Riserva Naturale del Borsacchio,4.5,649,42.70534557,13.99978635,02/11/2025,Autumn 2025,"2135,32",97.0,True,25/10/2025,False,False,True,2.0
+112,68,RISERVA BORSACCHIO,Riserva Naturale del Borsacchio,4.5,649,42.70534557,13.99978635,09/11/2025,Autumn 2025,"2079,44",59.0,True,02/11/2025,False,False,True,1.0
+113,68,RISERVA BORSACCHIO,Riserva Naturale del Borsacchio,4.5,649,42.70534557,13.99978635,23/11/2025,Autumn 2025,"1995,68",154.0,True,23/11/2025,False,False,False,
+114,68,RISERVA BORSACCHIO,Riserva Naturale del Borsacchio,4.5,649,42.70534557,13.99978635,06/12/2025,Winter 2025-2026,"2227,05",154.0,True,06/12/2025,False,False,False,
+115,68,RISERVA BORSACCHIO,Riserva Naturale del Borsacchio,4.5,649,42.70534557,13.99978635,21/12/2025,Winter 2025-2026,"2036,11",124.0,True,21/12/2025,False,False,False,
+116,60,Riserva Naturale dello Stato pineta Ramazzotti foce Bevano,Spiaggia libera di Lido di Classe,4.4,517,4.43495236,12.32865036,15/02/2025,Winter 2024-2025,"94,97",565.0,False,17/11/2024,True,False,False,
+117,60,Riserva Naturale dello Stato pineta Ramazzotti foce Bevano,Spiaggia libera di Lido di Classe,4.4,517,4.43495236,12.32865036,11/10/2025,Autumn 2025,"44,41",634.0,False,15/02/2025,True,False,False,
+118,60,Riserva Naturale dello Stato pineta Ramazzotti foce Bevano,Spiaggia libera di Lido di Classe,4.4,517,4.43495236,12.32865036,06/12/2025,Winter 2025-2026,"44,41",909.0,False,16/02/2025,True,False,True,4.0
+119,62,Sampieri,Spiaggia di Sampieri,4.6,2710,36.71960027,1.47409004,09/09/2025,Autumn 2025,"858,19",447.0,True,03/09/2025,False,False,False,0.0
+121,39,San Cataldo,Spiaggia di San Cataldo Terrasini,4.0,512,38.08694894,13.07658434,28/09/2025,Autumn 2025,"349,26",195.0,True,28/07/2025,False,False,False,
+122,39,San Cataldo,Spiaggia di San Cataldo Terrasini,4.0,512,38.08694894,13.07658434,28/12/2025,Winter 2025-2026,"349,26",1024.0,True,28/09/2025,False,False,False,
+123,122,San Leonardo di Cutro,Spiaggia di San Leonardo di Cutro,4.5,31,3.89388e-07,1.696251512e-07,18/07/2025,Summer 2025,"1014,54",396.0,True,,False,False,False,0.0
+124,122,San Leonardo di Cutro,Spiaggia di San Leonardo di Cutro,4.5,31,3.89388e-07,1.696251512e-07,03/11/2025,Autumn 2025,"1014,54",55.0,False,,False,False,False,0.0
+126,116,Scaletto Fornaci,Spiaggia delle Fornaci,4.3,102,44.29480637,84.62841511,05/06/2025,Summer 2025,"1598,11",2869.0,True,05/06/2025,False,False,False,
+127,116,Scaletto Fornaci,Spiaggia delle Fornaci,4.3,102,44.29480637,84.62841511,19/10/2025,Autumn 2025,"1598,11",18174.0,True,05/06/2025,False,False,False,
+128,113,Scalo Maestro Marettimo,Scalo Maestro,4.7,47,37.99012336,12.06098914,08/06/2025,Summer 2025,0,165.0,True,,False,False,False,
+129,73,Scoglio Lungo,Spiaggia Scoglio Lungo,4.4,245,40.83811703,84.08904299,15/07/2024,Summer 2024,"64,65",145.0,True,08/06/2024,False,False,False,
+130,73,Scoglio Lungo,Spiaggia Scoglio Lungo,4.4,245,40.83811703,84.08904299,17/11/2024,Autumn 2024,"64,65",66.0,True,,False,False,False,
+131,73,Scoglio Lungo,Spiaggia Scoglio Lungo,4.4,245,40.83811703,84.08904299,25/01/2025,Winter 2024-2025,"64,65",200.0,True,17/11/2024,False,True,False,
+132,73,Scoglio Lungo,Spiaggia Scoglio Lungo,4.4,245,40.83811703,84.08904299,02/09/2025,Autumn 2025,"64,65",417.0,True,10/06/2025,False,False,False,
+133,73,Scoglio Lungo,Spiaggia Scoglio Lungo,4.4,245,40.83811703,84.08904299,29/11/2025,Autumn 2025,"64,65",195.0,True,31/08/2025,False,False,False,
+134,25,Spiaggia Calatabiano foce Alcantara,Spiaggia le rocce nere,4.3,70,37.80667816,15.25713015,15/09/2024,Autumn 2024,"70,81",1026.0,True,15/09/2024,False,True,False,
+135,25,Spiaggia Calatabiano foce Alcantara,Spiaggia le rocce nere,4.3,70,37.80667816,15.25713015,05/04/2025,Spring 2025,"70,81",3781.0,True,05/04/2025,True,True,False,
+136,25,Spiaggia Calatabiano foce Alcantara,Spiaggia le rocce nere,4.3,70,37.80667816,15.25713015,07/06/2025,Summer 2025,"70,81",1036.0,True,07/06/2025,True,True,False,
+137,25,Spiaggia Calatabiano foce Alcantara,Spiaggia le rocce nere,4.3,70,37.80667816,15.25713015,25/10/2025,Autumn 2025,"70,81",2760.0,True,25/10/2025,True,True,False,
+140,69,spiaggia Cintioni di San Vito marina,Marina Di San Vito Chietino,4.3,3144,42.31350224,14.43994045,18/05/2025,Spring 2025,"275,38",265.0,True,,False,False,False,
+141,69,spiaggia Cintioni di San Vito marina,Marina Di San Vito Chietino,4.3,3144,42.31350224,14.43994045,16/11/2025,Autumn 2025,"525,56",127.0,True,24/09/2025,True,False,False,
+144,135,Spiaggia delle Conchiglie,Spiaggia delle Conchiglie,4.4,404,40.71662069,17.79453099,10/08/2025,Summer 2025,"59,32",144.0,True,,False,True,False,
+145,135,Spiaggia delle Conchiglie,Spiaggia delle Conchiglie,4.4,404,40.71662069,17.79453099,29/08/2025,Summer 2025,"59,32",68.0,True,15/08/2025,False,False,False,0.0
+146,130,SPIAGGIA DELLO SPIAZZO DEL CASTELLO ODESCALCHI- SANTA MARINELLA,Antemurale Porticciolo Santa Marinella,5.0,2,42.03397621,11.86920226,08/06/2025,Summer 2025,"120,52",275.0,True,08/06/2025,False,False,False,
+147,80,Spiaggia del Muraglione,Spiaggia libera Viareggio,4.2,1328,4.385592e-07,1.023831e-07,23/02/2025,Winter 2024-2025,"439,42",148.0,True,,False,False,False,
+148,80,Spiaggia del Muraglione,Spiaggia libera Viareggio,4.2,1328,4.385592e-07,1.023831e-07,08/06/2025,Summer 2025,"439,42",328.0,True,08/06/2025,False,False,False,
+149,90,Spiaggia del Sarello,Spiaggia del Sarello,3.9,123,38.10767246,13.50486767,13/10/2025,Autumn 2025,"52,45",254.0,True,22/08/2024,False,True,True,1.0
+150,90,Spiaggia del Sarello,Spiaggia del Sarello,3.9,123,38.10767246,13.50486767,25/12/2025,Winter 2025-2026,"52,45",339.0,True,13/10/2025,False,True,True,2.0
+151,79,Spiaggia del Seggio Area Nord,Spiaggia Libera Dog Beach,4.5,52,4.319304000000001e-07,1.053628e-07,17/11/2024,Autumn 2024,"105,3",215.0,True,,False,False,False,
+152,79,Spiaggia del Seggio Area Nord,Spiaggia Libera Dog Beach,4.5,52,4.319304000000001e-07,1.053628e-07,15/03/2025,Spring 2025,"105,3",114.0,True,15/03/2025,False,False,False,
+153,79,Spiaggia del Seggio Area Nord,Spiaggia Libera Dog Beach,4.5,52,4.319304000000001e-07,1.053628e-07,15/11/2025,Autumn 2025,"105,3",60.0,True,,False,False,False,
+154,132,Spiaggia di Briatico,Spiaggia Briatico,4.5,82,38.72621131,16.02392043,26/05/2025,Spring 2025,"101,9",105.0,True,26/05/2025,False,False,False,
+155,132,Spiaggia di Briatico,Spiaggia Briatico,4.5,82,38.72621131,16.02392043,15/07/2025,Summer 2025,"101,9",114.0,True,26/05/2025,False,False,False,
+156,132,Spiaggia di Briatico,Spiaggia Briatico,4.5,82,38.72621131,16.02392043,10/10/2025,Autumn 2025,"101,9",197.0,False,15/07/2025,False,False,False,
+157,92,Spiaggia di Capaci,Spiaggia Capaci,4.0,378,38.17969411,13.22758842,13/07/2025,Summer 2025,"157,32",423.0,False,,False,False,False,
+158,92,Spiaggia di Capaci,Spiaggia Capaci,4.0,378,38.17969411,13.22758842,14/12/2025,Winter 2025-2026,"157,32",260.0,False,13/07/2025,False,False,False,
+162,45,Spiaggia di Castrocucco di Maratea,Spiaggia di Castrocucco,4.2,343,3.992866e-07,1.575446e-07,29/11/2025,Autumn 2025,"523,96",42.0,True,29/11/2025,False,True,False,
+163,45,Spiaggia di Castrocucco di Maratea,Spiaggia di Castrocucco,4.2,343,3.992866e-07,1.575446e-07,08/12/2025,Winter 2025-2026,"504,99",63.0,True,08/12/2025,False,True,False,
+164,65,Spiaggia di Fiorenzuola di Focara (PU),Spiaggia di Fiorenzuola di Focara,4.5,873,43.95084815,12.82954216,05/01/2025,Winter 2024-2025,"403,42",539.0,True,05/01/2025,False,False,True,10.0
+166,155,Spiaggia di Sant'Agata,Spiaggia di S. Agata Messina,4.5,57,3.824971e-07,1.559121e-07,05/10/2025,Autumn 2025,"143,85",258.0,True,05/10/2025,False,False,False,
+167,51,spiaggia di Sovereto,Spiaggia di Sovereto,4.7,37,38.91883338,17.05012679,10/09/2025,Autumn 2025,"953,58",118.0,False,,False,False,False,
+168,51,spiaggia di Sovereto,Spiaggia di Sovereto,4.7,37,38.91883338,17.05012679,10/11/2025,Autumn 2025,"953,58",69.0,False,,False,False,False,0.0
+169,111,spiaggia di sturla,Spiaggia Sturla,3.8,1678,44.39181987,89.84821916,08/06/2025,Summer 2025,"247,95",234.0,False,08/06/2025,False,False,True,0.0
+170,111,spiaggia di sturla,Spiaggia Sturla,3.8,1678,44.39181987,89.84821916,21/12/2025,Winter 2025-2026,"247,95",336.0,True,21/12/2025,False,False,True,8.0
+171,54,Spiaggia ecologica ex Nereo Noli,Bagni Tripodoro,4.2,224,44.21638461,84.15575624,27/08/2024,Summer 2024,"90,49",185.0,True,26/06/2024,False,False,False,
+172,54,Spiaggia ecologica ex Nereo Noli,Bagni Tripodoro,4.2,224,44.21638461,84.15575624,10/05/2025,Spring 2025,"95,27",225.0,True,10/05/2025,False,False,False,
+173,54,Spiaggia ecologica ex Nereo Noli,Bagni Tripodoro,4.2,224,44.21638461,84.15575624,08/11/2025,Autumn 2025,"90,49",256.0,True,10/05/2025,False,False,False,
+174,158,Spiaggia libera - Braccio Levante Barletta,Spiaggia della Litoranea di Levante,4.1,73,41.32015533,16.29944086,13/10/2025,Autumn 2025,"992,18",3275.0,True,13/10/2025,False,True,True,1.0
+175,66,Spiaggia libera di Igea Marina,Bagno Spiaggia Libera,4.2,281,4.41167876,12.50289738,28/09/2025,Autumn 2025,"439,9",874.0,True,,False,False,False,
+176,82,Spiaggia Libera di Punta Vagno,Passeggiata di Corso Italia,4.6,386,44.39324932,89.49779391,04/03/2025,Spring 2025,"103,13",272.0,True,04/03/2025,False,False,False,
+177,82,Spiaggia Libera di Punta Vagno,Passeggiata di Corso Italia,4.6,386,44.39324932,89.49779391,25/10/2025,Autumn 2025,"103,13",307.0,True,25/10/2025,False,True,False,
+178,64,Spiaggia libera Marano - colonia Bolognese,Spiaggia Le Colonie,4.7,7,44.02347862,12.63465285,16/03/2025,Spring 2025,"668,59",982.0,True,16/03/2025,False,False,False,
+179,64,Spiaggia libera Marano - colonia Bolognese,Spiaggia Le Colonie,4.7,7,44.02347862,12.63465285,11/05/2025,Spring 2025,"668,59",639.0,True,11/05/2025,False,False,False,
+180,64,Spiaggia libera Marano - colonia Bolognese,Spiaggia Le Colonie,4.7,7,44.02347862,12.63465285,14/12/2025,Winter 2025-2026,"668,59",1040.0,True,14/12/2025,False,False,False,
+181,131,Spiaggia Lido La Duna,Lido La Duna Policoro,4.3,211,4.01770107,1.67088747,03/07/2025,Summer 2025,"557,51",51.0,True,03/07/2025,False,False,False,
+182,131,Spiaggia Lido La Duna,Lido La Duna Policoro,4.3,211,4.01770107,1.67088747,24/08/2025,Summer 2025,"557,51",61.0,True,24/08/2025,False,False,False,
+184,147,SPIAGGIA  LUNGOMARE AMERIGO VESPUCCI LIDO DI CASTELFUSANO,Spiaggia libera Bianca- L’Amanusa,4.1,393,41.70291379,12.33860725,08/11/2025,Autumn 2025,"103,74",531.0,True,,False,True,False,
+185,118,Spiaggia nel Parco delle Dune Costiere,Lido Morelli,4.1,3147,40.81025258,17.52622962,28/06/2025,Summer 2025,"259,89",309.0,True,28/06/2025,False,False,False,
+186,118,Spiaggia nel Parco delle Dune Costiere,Lido Morelli,4.1,3147,40.81025258,17.52622962,20/09/2025,Autumn 2025,"184,2",550.0,True,20/09/2025,False,False,False,
+187,118,Spiaggia nel Parco delle Dune Costiere,Lido Morelli,4.1,3147,40.81025258,17.52622962,02/11/2025,Autumn 2025,"528,7",405.0,True,20/09/2025,False,False,False,
+189,104,Spiaggia Ombelico di Venere,Spiaggia - Ombelico di Venere,4.4,564,3.80295527,13.58817977,19/10/2025,Autumn 2025,"51,14",432.0,True,12/10/2025,False,True,True,1.0
+190,104,Spiaggia Ombelico di Venere,Spiaggia - Ombelico di Venere,4.4,564,3.80295527,13.58817977,26/12/2025,Winter 2025-2026,"51,14",121.0,True,19/10/2025,False,False,False,
+191,145,Spiaggia Sabbie Nere Santa Severa,Sabbie Nere Santa Severa,4.5,11806,42.01371519,11.96492672,11/10/2025,Autumn 2025,"352,54",131.0,True,,False,False,False,
+192,145,Spiaggia Sabbie Nere Santa Severa,Sabbie Nere Santa Severa,4.5,11806,42.01371519,11.96492672,16/11/2025,Autumn 2025,"352,54",116.0,True,11/10/2025,False,False,False,
+193,145,Spiaggia Sabbie Nere Santa Severa,Sabbie Nere Santa Severa,4.5,11806,42.01371519,11.96492672,08/12/2025,Winter 2025-2026,"352,54",61.0,True,16/11/2025,False,False,False,0.0
+194,91,Spiaggia Salinelle,Spiaggia Salinelle,4.2,907,3.80202957,13.93190002,19/10/2025,Autumn 2025,"202,68",229.0,True,,False,True,False,
+195,91,Spiaggia Salinelle,Spiaggia Salinelle,4.2,907,3.80202957,13.93190002,21/12/2025,Winter 2025-2026,"321,43",252.0,True,19/10/2025,False,True,False,0.0
+197,99,Strongoli marina,Lungomare Di Strongoli Marina,4.2,432,3.92538e-07,1.710645e-07,20/10/2025,Autumn 2025,"533,95",40.0,True,,False,False,False,
+198,99,Strongoli marina,Lungomare Di Strongoli Marina,4.2,432,3.92538e-07,1.710645e-07,12/11/2025,Autumn 2025,"533,95",40.0,False,,False,False,False,0.0
+199,120,Tombolo della Feniglia,Feniglia,4.4,3158,0.04241862,0.01124465,12/12/2024,Winter 2024-2025,0,48.0,True,17/03/2024,False,True,False,
+200,120,Tombolo della Feniglia,Feniglia,4.4,3158,0.04241862,0.01124465,08/01/2025,Winter 2024-2025,0,22.0,True,12/12/2024,False,True,False,
+201,120,Tombolo della Feniglia,Feniglia,4.4,3158,0.04241862,0.01124465,23/01/2025,Winter 2024-2025,0,21.0,True,08/01/2025,False,True,False,
+202,120,Tombolo della Feniglia,Feniglia,4.4,3158,0.04241862,0.01124465,05/02/2025,Winter 2024-2025,0,20.0,True,23/01/2025,False,True,False,
+203,120,Tombolo della Feniglia,Feniglia,4.4,3158,0.04241862,0.01124465,27/02/2025,Winter 2024-2025,0,67.0,True,05/02/2025,False,True,False,
+204,120,Tombolo della Feniglia,Feniglia,4.4,3158,0.04241862,0.01124465,06/03/2025,Spring 2025,0,104.0,True,27/02/2025,False,True,False,
+205,120,Tombolo della Feniglia,Feniglia,4.4,3158,0.04241862,0.01124465,30/12/2025,Winter 2025-2026,0,69.0,True,06/03/2025,False,True,False,
+207,30,trabucco,Spiaggia libera Le Dune,4.0,1541,4.398257e-07,1.013512e-07,10/07/2025,Summer 2025,"64,16",653.0,True,29/05/2025,False,False,False,
+208,30,trabucco,Spiaggia libera Le Dune,4.0,1541,4.398257e-07,1.013512e-07,14/11/2025,Autumn 2025,"64,16",214.0,True,14/11/2025,False,False,False,0.0
+209,87,Vergine Maria,Spiaggia Vergine Maria,4.0,2494,38.16625971,13.36852026,28/06/2025,Summer 2025,"140,01",148.0,True,28/06/2025,False,True,False,
+210,87,Vergine Maria,Spiaggia Vergine Maria,4.0,2494,38.16625971,13.36852026,06/12/2025,Winter 2025-2026,"140,01",1685.0,False,28/06/2025,False,False,False,
